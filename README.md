@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @binita-roy
-- 👀 I’m interested in data analysis
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I’m interested in data analysis, data science, and data engineering
+- 💞️ As a data enthusiast, I’m looking to collaborate on any data projects 
 - 📫 How to reach me binitaroy1312@gmail.com
 
 <!---
